@@ -1,0 +1,37 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1614454",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "1788965",
+      "name": "标签",
+      "font_class": "biaoqian",
+      "unicode": "e6a4",
+      "unicode_decimal": 59044
+    },
+    {
+      "icon_id": "6279238",
+      "name": "首页",
+      "font_class": "shouye1",
+      "unicode": "e699",
+      "unicode_decimal": 59033
+    },
+    {
+      "icon_id": "7171132",
+      "name": "档案管理",
+      "font_class": "danganhe",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    }
+  ]
+}

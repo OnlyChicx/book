@@ -1,12 +1,12 @@
 * * *
-# [BFC](study/BFC.md)
+# [BFC](book/study/BFC.md)
 
 > An awesome project.
 
 This is my first project.
 
 * * *
-# [content的值](study/content值.md)
+# [content的值](book/study/content值.md)
 
 > An awesome project.
 

@@ -1,30 +1,24 @@
 * * *
 # [BFC](book/study/BFC.md)
 
-> An awesome project.
-
-This is my first project.
+> BFC如何形成以及形成的条件
 
 * * *
 # [content的值](book/study/content值.md)
 
-> An awesome project.
+> css伪元素content的值，可以显示一些小图标
 
 * * *
-# 657567
+# [像素的理解](book/study/像素.md)
 
-> An awesome project.
+> 记下一些对像素的理解
 
-# Vue 介绍
+* * *
+# [form表单的默认提交](book/study/form表单默认提交.md)
 
-`v-for` 的用法
+> form表单的默认提交行为具体分析
 
-```html
-<ul>
-  <li v-for="i in 10">{{ i }}</li>
-</ul>
-``
+* * *
+# [MongonDB查询语句](book/study/MongonDB.md)
 
-<ul>
-  <li v-for="i in 10">{{ i }}</li>
-</ul>
+> MongonDB查询语句

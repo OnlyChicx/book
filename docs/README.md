@@ -28,32 +28,3 @@ This is my first project.
 <ul>
   <li v-for="i in 10">{{ i }}</li>
 </ul>
-
-# Vue 的基本用法
-
-<!-- <div>hello {{ msg }}</div> -->
-
-<!-- <script>
-  new Vue({
-    el: '#main',
-    data: { msg: `v
-    u
-    e` }
-  })
-</script> -->
-
-<vuep template="#example"></vuep>
-
-<script v-pre type="text/x-template" id="example">
-  <template>
-    <div>Hello, {{ name }}!</div>
-  </template>
-
-  <script>
-    module.exports = {
-      data: function () {
-        return { name: 'Vue' }
-      }
-    }
-  </script>
-</script>

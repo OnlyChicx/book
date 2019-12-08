@@ -22,3 +22,8 @@
 # [MongonDB查询语句](book/study/MongonDB.md)
 
 > MongonDB查询语句
+
+* * *
+# [Swiper插件的使用](book/study/swiper.md)
+
+> 介绍Swiper插件的使用

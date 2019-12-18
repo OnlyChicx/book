@@ -19,7 +19,7 @@
 > form表单的默认提交行为具体分析
 
 * * *
-# [MongonDB查询语句](book/study/MongonDB.md)
+# [MongonDB查询语句](book/study/MongoDB.md)
 
 > MongonDB查询语句
 

@@ -47,3 +47,8 @@
 # [循环](book/study/循环.md)
 
 > for循环forEach等循环方法使用及跳出循环
+
+* * *
+# [for in 和 for of](book/study/forinforof.md)
+
+> for in 和 for of 的区别

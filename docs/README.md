@@ -58,3 +58,8 @@
 # [exchange-network_name](book/study/exchange-network_name.md)
 
 > exchange-network_name
+
+* * *
+# [创建逻辑磁盘](book/study/创建逻辑磁盘.md)
+
+> 创建逻辑磁盘
